@@ -3,6 +3,7 @@
 **Learning Structural Coherence Across Modalities**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19760813.svg)](https://doi.org/10.5281/zenodo.19760813)
+
 ---
 
 A modality-agnostic architecture that learns structural coherence from contrastive pairs. The same constraint network detects discourse violations in text and manipulation artifacts in images — the first architecture to transfer across modalities via corruption respecification alone.
