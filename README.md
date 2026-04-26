@@ -2,7 +2,7 @@
 
 **Learning Structural Coherence Across Modalities**
 
-[Paper (Zenodo)](https://doi.org/19760813)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19760813.svg)](https://doi.org/10.5281/zenodo.19760813)
 
 ---
 
