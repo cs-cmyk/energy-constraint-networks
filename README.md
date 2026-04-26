@@ -2,7 +2,7 @@
 
 **Learning Structural Coherence Across Modalities**
 
-Chirag Shinde · Independent Researcher · [Paper (Zenodo)](https://doi.org/19760813)
+[Paper (Zenodo)](https://doi.org/19760813)
 
 ---
 
@@ -192,8 +192,6 @@ python run_experiments.py --experiment both ...
   url={https://github.com/cs-cmyk/energy-constraint-networks}
 }
 ```
-
-Update with ArXiv ID and Zenodo DOI once available.
 
 ## License
 
