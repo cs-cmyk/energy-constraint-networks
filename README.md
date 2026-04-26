@@ -106,6 +106,19 @@ python analyze_clustering.py
 python run_text_ablations.py --experiment both
 ```
 
+## Pretrained Weights
+
+Available on [Hugging Face](https://huggingface.co/cs-cmyk/energy-constraint-networks):
+
+| Checkpoint | Domain | Role |
+|-----------|--------|------|
+| `nl_bert_constraint_best.pt` | Text | 93.4% trained, 87.2% unseen corruption types |
+| `pretrained_paired_best.pt` | Vision | Structural branch (`--struct_checkpoint`) |
+| `freq_only_best.pt` | Vision | Frequency branch (`--freq_checkpoint`) |
+| `local_only_best.pt` | Vision | Local texture branch (`--local_checkpoint`) |
+| `vision_constraint_celeb.pt` | Vision | Corruption-only pretrained, 0.850 AUC zero-shot |
+
+
 ### Vision Domain
 
 ```bash
